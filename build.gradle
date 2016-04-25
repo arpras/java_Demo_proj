@@ -10,7 +10,7 @@ in the 'test' source set. The only things we have to manually configure are
 our test dependencies. In this example we're using JUnit as our testing
 framework so we add a 'junit' dependency to the 'testCompile' configuration.
 
-Running our tests is easy, just run the 'test' task.
+ Running our tests is easy, just run the 'test' task.
 
     $ gradle test
 
