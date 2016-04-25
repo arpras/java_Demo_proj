@@ -6,7 +6,7 @@ import org.junit.Test;
 public class PersonTest {
     @Test
     public void test() {
-        Person person = new Person("Jeremy");
+        Person person = new Person("Jerdemy");
         assert person.getName().equals("Jeremy");
     }
 }
