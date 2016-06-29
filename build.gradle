@@ -1,6 +1,6 @@
 /*
 
-     Gradle provides built-in support for testing your applications. Core support
+    Gradle provides built-in support for testing your applications. Core support
 is provided for JUnit and TestNG testing frameworks. To get started running
 unit tests all you need to do is place your tests in the 'src/test/java'
 directory when using the Java plugin. You can, of course, change the location
